@@ -2,19 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-//
-// Created by CodeWithFlexZ
-// Tutorials on my YouTube
-//
-//! Instagram
-//! @CodeWithFlexZ
-//
-//? GitHub
-//? AmirBayat0
-//
-//* YouTube
-//* Programming with FlexZ
-//
 
 void main() => runApp(const MyApp());
 

@@ -1,17 +1,3 @@
-//
-// Created by CodeWithFlexZ
-// Tutorials on my YouTube
-//
-//! Instagram
-//! @CodeWithFlexZ
-//
-//? GitHub
-//? AmirBayat0
-//
-//* YouTube
-//* Programming with FlexZƒ
-//
-
 import 'package:flutter/material.dart';
 
 void main() {
