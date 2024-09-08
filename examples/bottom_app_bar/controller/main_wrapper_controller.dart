@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../view/cart_tab.dart';
 import '../view/home_tab.dart';
 import '../view/profile_tab.dart';
