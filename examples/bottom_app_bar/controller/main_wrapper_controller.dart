@@ -6,8 +6,6 @@ import '../view/home_tab.dart';
 import '../view/profile_tab.dart';
 import '../view/statistics_tab.dart';
 
-
-
 class MainWrapperController extends GetxController {
   late PageController pageController;
 
